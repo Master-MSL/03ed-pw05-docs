@@ -1,1 +1,44 @@
+Il cittadino può richiedere la carta d’identità esclusivamente se il precedente documento è in scadenza, scaduto, smarrito, rubato o deteriorato; non deve invece essere richiesta a seguito di cambio indirizzo o residenza.
+Il processo si può suddividere il 3 sub-processi:
+1. Prenotazione appuntamento presso lo sportello
+2. Espletamento pratica presso lo sportello
+3. Ricevimento Carta Identità Elettronica.
 
+1. Sia per il Comune di Torino che per il Comune di Milano, la prenotazione dell’appuntamento può essere effettuata tramite apposito portale informatico. Il Comune di Torino ha previsto, inoltre, la possibilità di prenotare telefonicamente¸ ma solamente in caso di motivata urgenza. 
+Ai fini dell’analisi di benchmarking si ritiene particolarmente utile approfondire l’analisi della modalità ordinaria di prenotazione, ossia tramite portale informatico.
+Il Comune di Torino si avvale, come la maggior parte dei Comuni, del portale predisposto dal Ministero dell’interno; l’utente a seguito dell’avvenuta registrazione, ha la possibilità di scegliere un appuntamento, compatibilmente alle disponibilità, selezionando la sede anagrafica, la data e l’orario.
+Il Comune di Milano, invece, ha effettuato una scelta diversa che si è rivelata particolarmente efficace: ha realizzato un prodotto informatico in autonomia “agenda online del Comune di Milano”, che risulta di più facile utilizzo per l’utente. 
+Il programma in uso presso la Città di Milano ha consentito una più equa distribuzione dei carichi di lavoro tra le anagrafi decentrate e la sede centrale: come evidenziato nella tabella n.2, l’anagrafe centrale di Milano, nel 2018, ha rilasciato 54.574 CIE mentre le sedi decentrale 106.645, ossia un numero superiore del 95%. La stessa analisi sulla Città di Torino, evidenzia che l’anagrafe centrale, nel 2018, ha rilasciato 27.901 CIE mentre le sedi decentrale 38.785, ossia un numero superiore del 39%. Questo sbilanciamento di valori ha generato una congestione nella sede anagrafica centrale di Torino, con ripercussione negative anche su altri servizi erogati dalla sede stessa.
+È pertanto necessario analizzare nel dettaglio lo stesso sub-processo nei 2 differenti comuni per cercare di spiegare tale disomogeneità dei dati di affluenza da parte degli utenti.
+
+Comune di Milano
+L’utente accede al sito https://servizicrm.comune.milano.it/appuntamenti/login e inserisce nome, cognome e indirizzo mail. Il sistema invia in automatico una mail all’indirizzo di posta elettronica inserito, contenente un link per accedere alla prenotazione dell’appuntamento; una volta indicato il servizio di interesse, in questo caso “anagrafe carta di identità elettronica”, si inserisce il codice fiscale e se la scadenza dell’attuale carta d’identità supera i 180 gg, viene creato il seguente alert “Attenzione! Gentile cittadino, la scadenza della carta d’identità supera i 180 gg. Il rinnovo è possibile solo se deteriorata, smarrita o rubata”. Nel caso la scadenza sia entro i 180 gg, si clicca su procedi. Il sistema informatico propone l’elenco delle disponibilità con la schermata presente nella pagina successiva. In pratica l’utente visualizza la mappa cittadina con tutte le opzioni disponibili: in questo modo non vi è distinzione tra sede centrale e sede anagrafiche (spesso poco conosciute dall’utente) e la scelta viene effettuata verso la sede più comoda o verso la sede con la data preferita. Una volta effettuata la scelta, il sistema genera una mail che riassume le istruzioni da seguire per la richiesta della carta di identità elettronica.
+Comune di Torino
+L’utente accede al sito https://www.prenotazionicie.interno.gov.it/ e compila i seguenti campi:
+•	Nome
+•	Cognome
+•	Codice fiscale
+•	Comune di residenza
+•	Lingua
+•	Luogo dove si vuole ricevere il documento.
+
+Una volta compilati i campi, l’utente clicca su procedi. Il sistema informatico non avvisa il cittadino nel caso in cui la data di scadenza sia superiore a 180gg.
+
+Se gli orari disponibili non soddisfano le proprie esigenze, l’utente clicca sul tasto indietro e riprende la ricerca della sede/orario. L’utente non è comunque aiutato nella scelta della sede dalla rappresentazione grafica della mappa della Città, come invece accade nel comune di Milano.
+Una volta effettuata la scelta, il sistema genera una mail che riassume le istruzioni da seguire per la richiesta della carta di identità elettronica.
+
+2. Il cittadino deve presentarsi allo sportello nella data indicata all’atto della prenotazione presentando la seguente documentazione:
+•	altro documento di identità in corso di validità (passaporto, patente) o in caso di rinnovo carta d'identità precedente
+•	una foto tessera a colori su sfondo chiaro, recente e con il capo scoperto
+•	tessera Sanitaria (Carta Nazionale dei Servizi) o codice fiscale
+•	se il vecchio documento è stato smarrito o rubato, la denuncia presentata all'autorità di Pubblica Sicurezza
+•	se il vecchio documento è stato smarrito, rubato o deteriorato in modo da non consentire l'identificazione e non si dispone di altro documento d'identità in corso di validità occorre anche la presenza di due testimoni maggiorenni muniti di valido documento d'identità
+•	altri documenti da portare per Cittadini non appartenenti all'Unione Europea: permesso di soggiorno o carta di soggiorno in corso di validità.
+
+Presso lo sportello viene rilasciato un modulo riassuntivo dati con fotografia, ossia una ricevuta, che ha valore di documento di riconoscimento in Italia, nel periodo di attesa ricevimento della CIE.
+Una volta espletata la pratica, il cittadino effettua presso lo sportello il pagamento delle spese di emissione, dei diritti fissi e di segreteria per un importo pari a euro 22.21.
+
+3. La CIE viene infine spedita dal Poligrafico dello Stato, tramite posta raccomandata, all’indirizzo indicato dall’interessato entro sei giorni lavorativi dalla richiesta oppure può essere ritirata presso la sede di emissione a partire dal settimo giorno lavorativo successivo alla richiesta.
+
+
+   
