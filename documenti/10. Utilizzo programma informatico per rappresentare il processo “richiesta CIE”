@@ -1,1 +1,56 @@
+Per rappresentare il processo pocanzi descritto verrà utilizzato un particolare standard detto Business Process Model & Notation (BPMN).
+Il BPNM è uno standard per la modellazione dei processi di business che fornisce una notazione grafica per specificare i processi di business in un Business Process Diagram (BPD), sulla base di una tecnica di diagrammi di flusso; grazie a tale standard, si riesce a colmare il divario di comunicazione che si verifica frequentemente tra progettazione e realizzazione dei processi aziendali.
+Il modello di processo di business va inteso come una rete di oggetti grafici che rappresentano attività e controlli di flusso e che definiscono l’ordine della loro esecuzione.
+Questi elementi consentono uno sviluppo facilitato di diagrammi semplici, il cui aspetto semplifica il lavoro degli analisti. Gli stessi elementi sono scelti per la loro distinguibilità e familiarità alla maggior parte degli utenti. Ad esempio, le attività sono dei rettangoli e i punti di decisione sono dei rombi.
+Un BPMS fornisce strumenti per:
+-	l’analisi e la modellazione dei processi: viene fornito un designer per rappresentare graficamente i processi utilizzabili dai Business Analyst.
+-	il supporto allo human workflow: viene fornito un ambiente di sviluppo per creare soluzioni software incentrate sui processi che consentano l’automazione di attività che richiedono l’intervento umano, con strumenti per disegnare e generare form utente, to do list, etc.
+-	il supporto all’integrazione di altre applicazioni: viene fornito un ambiente di sviluppo che consente un’integrazione agevole dei sistemi informativi mediante l’esposizione di API (application programming interface).
+-	le regole di business: viene fornito uno strumento per la definizione e l’applicazione
+	delle regole decisionali utilizzate nei processi.
+-	l’esecuzione dei processi: viene fornito un engine generalizzato che esegue il
+flusso elaborativo relativo ai processi disegnati, che concatena e orchestra attività
+automatizzabili e umane.
+-	l’analisi dei dati e l’ottimizzazione delle performance mediante simulazione: viene fornito uno strumento per il tracciamento dei dati e l’analisi degli stessi, con un ambiente integrato nel quale impostare scenari (cambio del tipo e del numero di risorse del processo) che, a partire dai dati storici raccolti fino ad un certo momento, sia in grado di produrre simulazioni predittive.
+
+La ricerca del prodotto informatico più efficace per la digitalizzazione e automazione dei processi si è concentrata su:
+	Bizagi
+	Bonita.
+In entrambi i casi si tratta di software per la modellazione dei processi di business.
+
+Bizagi è una piattaforma digitale che consente l’automazione e la gestione dei processi; il suo layout è molto simile a quello del pacchetto Office di Microsoft e fornisce una gamma completa per la modellazione dei processi mediante lo standard BPMN 2.0.
+Bizagi consente inoltre, di condividere in cloud i diagrammi realizzati, oltre a dare la possibilità ai “process owner” di collaborare tra loro. Sulla piattaforma Bizagi è possibile eseguire il workflow, testare la soluzione sviluppata e pubblicare i diagrammi realizzati direttamente su documenti Word, Pdf, Excel. I diagrammi possono essere esportati nei formati PNG, XPDL, Visio, BPMN ed importati tramite file di tipo Visio, XPDL e BPMN.
+
+
+I componenti della suite Bizagi sono:
+•	Bizagi Modeler: è l’ambiente dove vengono modellati i processi di business mediante l’uso del linguaggio standard BPMN 2. È lo strumento usato tipicamente dai business manager e i business analyst per disegnare il modello dei processi As-Is oppure il modello concettuale del processo, detto anche business oriented process model, che disegna un primo To-be.
+•	Bizagi Studio: è l’ambiente dove il modello del processo viene trasformato in una vera e propria applicazione di processo eseguibile. Inoltre è l’ambiente dove si realizza la definizione del modello dei dati, dell’interfaccia utente e delle integrazioni con gli altri asset IT.
+•	Bizagi Engine: è l’ambiente dove viene eseguito e controllato il processo automatizzato definito in Bizagi Studio. È un portale che consente di consultare facilmente lo stato di tutte le attività dei processi. Inoltre, un set completo di KPI consente di avere il controllo completo delle performance dei processi.
+
+Bonita BPM è un software open source creato nel 2001 in Francia, al National Institute for Research in Computer Science, è stato poi acquisito dalla compagnia francese Groupe Bull. Dal 2009 lo sviluppo di Bonita è realizzato dalla compagnia Bonitasoft.
+La suite vanta numerosi riconoscimenti tra i quali il premio per il “Miglior Strumento di Modellazione” all’EclipseCon del 2011 e il riconoscimento ricevuto dalla Gartner Inc. che lo definisce come “l’unico prodotto open source conforme alla definizione di BPMS (Business Process Management Suite)”.
+Il software possiede due versioni, ovvero la Community Edition e la Subscription Edition. Il layout del software è user friendly e sono presenti nella home page altre due sezioni, “Learn” e “Resources”, mediante le quali è possibile accedere alla documentazione ufficiale, alla community, per confrontarsi con altri BPMN developer, e al blog di Bonita.
+Bonita consente di importare file nei formati Bonita 6.x, Bonita 7.x, BPMN 2.0, XPDL, JBM 3.2, e di esportarli nei formati BPMN 2.0, PNG, GIF, BMP, JPEG, JPG, SVG, PDF.
+In sintesi i punti di forza di Bonita BPM sono:
+•	modellazione del processo secondo lo standard BPMN2.0;
+•	definizione grafica di processi enterprise complessi;
+•	monitoraggio delle attività aziendali (Business Activity Monitoring - BAM) e
+Business Intelligence (BI) integrate;
+•	personalizzazione delle UI (Web, Desktop e Mobile);
+•	miglioramento dei processi grazie alla loro simulazione;
+•	personalizzazione di Dashboard per valutare l’andamento dei processi.
+
+L’architettura di Bonita BPM risulta essere composta da un motore di esecuzione Bonita, contenente 3 livelli di servizi:
+-	servizi generici (autenticazione, documenti, gestione degli eventi, identità, persistenza);
+-	servizi BPM (gestione dei processi, gestione degli utenti, gestione dei task, BAM,
+connettori);
+-	API (Java, EJB, HTTP).
+
+Grazie alle API, il motore di esecuzione si connette al portale Bonita, alla gestione
+dei task e al monitoraggio dei processi, all’applicazione Bonita o ad altre.
+Nel livello dei Servizi BPM vi sono 4 moduli:
+1.	Bonita BPM Studio: consente di realizzare e completare un diagramma di un processo; successivamente cliccando sul pulsante per eseguire il progetto, quest’ultimo viene caricato sul Bonita BPM Portal;
+2.	Bonita BPM Portal: progettato per offrire la stessa usabilità di un inbox email, è un portale intuitivo che permette di vedere i task assegnati e di svolgerli; una volta effettuato l’accesso è possibile avere informazioni sui task, eseguire le attività assegnate o prenderne in carico altre, avere uno storico dei task già effettuati, inviare messaggi, delegare attività e creare subtask;
+3.	Bonita BPM Engine: rappresenta il motore di esecuzione al centro di Bonita BPM; esegue i processi, gestisce le azioni relative ai task e le azioni di amministrazione;
+4.	Connector: grazie ai connettori, Bonita BPM agisce come un’architettura a servizi (SOA) che permette di costruire servizi (e, quindi, funzionalità) che possano essere utilizzati, riutilizzati e combinati per creare processi di business flessibili e leggeri.
 
