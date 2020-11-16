@@ -1,1 +1,71 @@
+Un’attività di questo tipo, ossia il confronto e l’analisi di dati tra enti pubblici pone in primo piano la problematica legata ai cosiddetti Open Data.
+Per Open Data si intende il formato aperto con cui le informazioni e i dati digitali possono essere trasmessi, distribuiti e scambiati sul web. Si tratta di un formato che permette di creare una rete basata su dati che siano accessibili, integrabili e interscambiabili. 
+Questi dati per essere considerati ottimi devono avere delle caratteristiche fondamentali quali: 
+1.	Completi e dettagliati
+2.	Grezzi e facilmente utilizzabili 
+3.	Aggiornati velocemente 
+4.	Accessibili 
+5.	Facilmente ricercabili 
+6.	Liberamente utilizzabili 
+7.	Machine-readable 
+8.	Non essere in formati proprietari 
+9.	Riutilizzabili 
+10.	Permanenti.
+
+Il concetto di “Open Data” sottintende una completa disponibilità, ricerca e accessibilità dei dati resi disponibili attraverso formati “customer-oriented” in modo da facilitarne l’utilizzo, il riuso e la distribuzione.
+L’adozione di un modello operativo che favorisce l’accesso agli “Open Data” necessita un cambiamento del tradizionale modo di concepire la Pubblica Amministrazione, un’evoluzione spesso identificata dall’espressione “Open Government”.
+L’Open Government Data prefigura un cambiamento del modello operativo dell’amministrazione pubblica a favore di una maggiore:
+•	Trasparenza: le decisioni adottate da una PA sono meglio integrabili nel tessuto sociale se vengono percepite e comprese meglio dai cittadini. Così facendo una PA può incrementare la sua credibilità e rinforzare il labile rapporto di fiducia che spesso contraddistingue i cittadini e il mondo delle imprese nei confronti degli organi dello Stato. In tale ottica, maggiori livelli di trasparenza possono contribuire a riconfigurare questo legame in un’ottica di maggiore fiducia e credibilità reciproca. 
+•	Collaborazione: la PA non deve essere percepita come un’entità isolata che opera indipendentemente dal contesto circostante. Una visione virtuosa della pubblica amministrazione non può prescindere dallo sviluppo di forme di collaborazione con altri enti, le organizzazioni e i cittadini attivi nel contesto locale. Si tratta di sviluppare sinergie e cogliere le opportunità offerte da questo modello collaborativo per fornire migliori servizi e soddisfare le esigenze di tutti i portatori di interesse (stakeholder). 
+•	Partecipazione: l’apertura delle PA agevola la partecipazione del cittadino nell’individuazione dei servizi che meglio rispondono alle esigenze e ai bisogni della popolazione. La collaborazione tra la sfera pubblica e privata può favorire un incremento significativo della qualità delle scelte amministrative e politiche operate sul territorio.
+
+La procedura di apertura dei dati coinvolge le seguenti prospettive: 
+	Prospettiva economica: valuta i benefici economico-finanziari che possono essere raggiunti grazie alle diverse modalità di impiego dei dati pubblici a disposizione degli stakeholder.
+	Prospettiva sociale: approfondisce le modalità con cui gli Open Data generano benefici sociali, aumentando il benessere della collettività. Essa tiene in considerazione l’influenza prodotta dalle differenze sociali e culturali tra i Paesi sull’esito delle politiche Open Data.
+	Prospettiva legislativa: si concentra sulle leve a disposizione dei governi per regolamentare e promuovere la libertà d’informazione, gli Open Data e l’Open Government nel territorio, come ad esempio le policy e le direttive 
+	Prospettiva politica: indaga i differenti impatti prodotti sul fenomeno Open Data dagli orientamenti politici al potere, proponendo nuove linee di intervento e sviluppo. 
+	Prospettiva istituzionale: considera il ruolo delle istituzioni pubbliche nel definire e perseguire le strategie Open Data, oltrepassando le criticità e gli ostacoli che si contrappongono ai dati. 
+	Prospettiva operativa: pone l’attenzione sugli aspetti operativi e sugli standard tecnici legati ai dati.
+	Prospettiva tecnica: studia il ruolo cruciale svolto dagli strumenti a supporto dei dati, in particolare le tecnologie, le infrastrutture e le piattaforme.
+
+Risulta particolarmente importante approfondire le questioni legate alle seguenti tematiche:
+1.	formati dei dati
+2.	origine e titolarità dei dati.
+
+1. Formati dei dati.
+I dati aperti sono contraddistinti da alcuni fattori. In primis il formato deve favorirne l’accesso, l’uso, il riuso e la redistribuzione. Più il dato è grezzo, inteso come privo di formattazione, minori sono i vincoli a cui è soggetto e maggiore sono le opportunità di gestione e le possibilità di diffusione. Secondo l’ordinamento italiano con “formato aperto si intende un formato dati reso pubblico e documentato esaustivamente” (Art. 68, comma 3, Codice Amministrazione Digitale).
+La comunità “Open Data” ha specificato che non è sufficiente che i dati vengano semplicemente pubblicati online ricorrendo a qualunque formato, bensì occorre che:
+-	il formato aperto ne assicuri l’elaborazione automatica
+-	la forma strutturata faciliti il riuso dei dati
+-	non vi siano vincoli proprietari in modo da assicurare il loro libero trasferimento.
+Di norma gli enti pubblici che hanno aperto i loro dati ricorrono a formati differenti; l’eterogeneità delle soluzioni adottate è molto elevata soprattutto perché non tutte le PA rendono noti i loro dataset con formati aperti ma ricorrono a PDF, shape file e cartelle ZIP che non sono propriamente considerati “open source”.
+
+2. Origine e titolarità dei dati.
+Gli open data e la loro condivisione nel web portano moltissimi vantaggi ai cittadini e offrono un aumento della qualità e dell’efficienza dei servizi a loro offerti. 
+Nasce però un problema inevitabile che riguarda l’attendibilità del dato. Infatti non essendoci un filtro, i dati possono essere pubblicati da qualsiasi persona. Per risolvere questo problema bisogna collegare ai dati dei metadati che descrivendone la provenienza, consentono di certificare la loro attendibilità, la qualità e l’affidabilità. 
+Per identificare in maniera corretta il concetto di titolarità e provenienza del dato, è necessario fare un riferimento ad alcune definizioni citate nelle “Linee Guida Nazionali per la Valorizzazione del Patrimonio Informativo Pubblico (anno 2014)”:
+o	Responsabile del dato: è identificabile nella persona, Ente, Istituzione, Amministrazione che si occupa di produrre, gestire e manipolare i dati. In alcuni casi questa figura può essere espressamente determinata a livello normativo.
+o	Dato certificato: è rappresentato dal dato pubblicato dallo stesso responsabile che lo ha prodotto.
+o	Provenienza dei dati (Provenance): fa riferimento al complesso di informazioni che consentono di approfondire i processi e le entità coinvolte nella fase di produzione e pubblicazione dei dati. A tal fine il livello di dettaglio può essere molto elevato soprattutto quando le informazioni afferiscono a tutti gli elementi che hanno influito sulla risorsa dati pubblicata.
+o	Entità: rappresentano gli “oggetti”, locuzione che fa riferimento a diversi concetti (es: oggetti digitali - file, pagine web; oggetti fisici - montagne, case; oggetti astratti - idee e concetti) di cui viene descritta l’origine. 
+o	Agente: si tratta di un soggetto o di qualcosa che è responsabile dell’attività in corso e, pertanto, dell’esistenza di una entità o dell’attività svolta da un altro agente.
+o	Attività: è identificabile nell’azione che avviene in un periodo di tempo determinato e che influisce sulle entità o interagisce con esse. Al loro interno è possibile includere il consumo, l’elaborazione, la trasformazione, la modifica, l’impiego o la creazione di entità.
+
+Il processo di apertura dei dati implica l’esecuzione di una serie di fasi che culminano con la loro pubblicazione in rete. L’ordinamento italiano, attraverso il D. L. 179/2012 (“Ulteriori misure urgenti per la crescita del Paese”), ha previsto l’obbligo di pubblicazione dei dati nel Web per tutti gli enti pubblici. Nonostante questo intervento normativo nel corso degli ultimi anni non stati raggiunti i risultati sperati a causa della lentezza di molte amministrazioni pubbliche, diffuse sul territorio nazionale, ad adeguarsi al dettato di legge. La promozione del modello degli “Open Data” sul territorio italiano necessita di una revisione normativa che preveda opportune sanzioni per gli enti trasgressori.
+Il successo dell’inserimento dei dati in rete dipende dalla completa realizzazione di quanto
+previsto dalle Linee Guida per la Valorizzazione del Patrimonio Informativo Pubblico.
+In tale ottica è essenziale che gli enti pubblici attuino “alla lettera” le azioni previste per il rilascio dei propri dataset, promuovano l’adozione di pratiche condivise e assicurino una diffusione omogenea dei dati. La valorizzazione del patrimonio informativo pubblico e lo sfruttamento dei dati da parte di tutti gli stakeholder è un obiettivo realizzabile se le misure previste dal legislatore saranno implementate a livello sistemico.
+In particolare si tratta di:
+•	Pianificare la pubblicazione dei dati tenendo conto delle esigenze degli utenti e, in tale ottica, facilitando loro l’accesso alle informazioni desiderate attraverso lo sviluppo di portali “user-friendly” con funzioni intuitive.
+•	Adottare i vocaboli, gli schemi e gli standard stabiliti dall’architettura dell’informazione pubblica a livello nazionale semplificando la ricerca dell’utente; non di rado, difatti, i dati rilasciati non vengono utilizzati dagli utenti a causa delle difficoltà che incontrano nella loro ricerca.
+•	Assicurare elevati standard qualitativi in termini di accuratezza, attualità, coerenza e completezza come previsto dall’ISO/IEC 25012.
+•	Superare l’analisi giuridica dei dati in modo da assicurarsi che le normative e le restrizioni giuridiche presenti in materia di “Open Data” siano rispettate pedissequamente.
+•	Pianificare nel dettaglio le attività di gestione, manutenzione e aggiornamento dei dati, attraverso una puntuale suddivisione delle responsabilità.
+•	Attribuire ai dati licenze aperte e verificare le loro compatibilità.
+•	Supportare il dato con formati adeguati e metadati, assicurandosi che quest’ultimi siano disponibili nel catalogo nazionale www.dati.gov.it e nel portale europeo www.europeandataportal.eu.
+•	Mettere a punto una strategia di Engagement specifica che favorisca livelli di coinvolgimento sempre crescenti sia all’interno della PA sia nel contesto circostante.
+
+In merito all’analisi giuridica, è necessario valutare la sostenibilità nel tempo del processo di produzione e pubblicazione dei dati ossia la creazione di un servizio che, nel rispetto della funzione pubblica, tuteli i diritti dei singoli individui.
+In sintesi, l’analisi giuridica delle fonti si prefigge di vagliare il rispetto degli equilibri esistenti tra l’utilizzo dei dati e i diritti di tutela ad essi associati focalizzandosi sull’identificazione delle eventuali limitazioni nell’utilizzo, nelle finalità di competenza, nella specificazione dei diritti e dei termini di licenza.
+ 
 
